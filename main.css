@@ -9,6 +9,9 @@ h1{
 h2{
     color: blue;
 }
-p{
+
+
+p {
+    text-decoration:underline;
     color: rgb(193, 41, 76);
 }
